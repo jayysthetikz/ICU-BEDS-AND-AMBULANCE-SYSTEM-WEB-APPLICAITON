@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aditya Birla Memorial Hospital",
+    "lat": 18.62583,
+    "lng": 73.77472,
+    "phone": "020-30717777"
+  },
+  {
+    "name": "Sassoon General Hospital",
+    "lat": 18.52571,
+    "lng": 73.87194,
+    "phone": "020-26128000"
+  },
+  {
+    "name": "Vishwaraj Hospital",
+    "lat": 18.4500,
+    "lng": 74.0500,
+    "phone": "020-26961100"
+  },
+  {
+    "name": "Vital Multispeciality Hospital",
+    "lat": 18.6220,
+    "lng": 73.8000,
+    "phone": "020-27450000"
+  },
+  {
+    "name": "Ruby Hall Clinic",
+    "lat": 18.5290,
+    "lng": 73.8460,
+    "phone": "020-26133633"
+  },
+  {
+    "name": "Jupiter Hospital",
+    "lat": 18.6070,
+    "lng": 73.9270,
+    "phone": "020-27801100"
+  },
+  {
+    "name": "Ozone Hospital",
+    "lat": 18.6100,
+    "lng": 73.7800,
+    "phone": "020-27470000"
+  },
+  {
+    "name": "Sancheti Hospital",
+    "lat": 18.5120,
+    "lng": 73.8300,
+    "phone": "020-25531311"
+  },
+  {
+    "name": "Nulife Hospital",
+    "lat": 18.6200,
+    "lng": 73.8500,
+    "phone": "020-27453333"
+  },
+  {
+    "name": "Golden Square Hospital",
+    "lat": 18.6300,
+    "lng": 73.7600,
+    "phone": "020-30710000"
+  }
+]
